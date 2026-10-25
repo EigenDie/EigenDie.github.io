@@ -1,0 +1,16 @@
+theme: luma-jekyll
+
+title: EigenDie
+description: Embedded Systems, Telecom & Hardware Engineering
+url: https://EigenDie.github.io
+
+author:
+  name: Jhonatan Benitez
+  email: eigendie.hw@gmail.com
+
+social:
+  github: EigenDie
+  linkedin: jhonatan-benitez-calani
+
+sass:
+  style: compressed

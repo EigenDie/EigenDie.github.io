@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+gem "jekyll"
+gem "luma-jekyll"
+gem "erb"
+gem "webrick"
